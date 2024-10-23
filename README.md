@@ -29,12 +29,14 @@ Yakuza Antivirus is a lightweight antivirus application built using Python and P
 
 2. Install the required packages:
 
-```pip install PyQt5 psutil watchdog```
+   ```bash
+   pip install PyQt5 psutil watchdog
 
 
 3. Run the application:
 
-```python main.py```
+   ```bash
+   python main.py
 
 
 

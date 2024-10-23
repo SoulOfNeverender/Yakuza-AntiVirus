@@ -39,12 +39,12 @@ Yakuza Antivirus is a lightweight antivirus application built using Python and P
 
 
 Usage
-Scan File: Click the "🔍 Scan File" button to select a file for scanning.
-Deep Scan: Click "🐉 Deep Scan All Files" to scan all files on your PC.
-Real-Time Monitoring: Use the "🔴 Start Real-Time Monitoring" button to monitor critical directories.
-Stop Monitoring: Click "❌ Stop Real-Time Monitoring" to end the monitoring session.
-Boost RAM: Click "⚡ Boost RAM" to clear unnecessary memory usage.
-Clean Junk Files: Click "🗑️ Clean Junk Files" to delete unwanted files from your system.
+-**Scan File**: Click the "🔍 Scan File" button to select a file for scanning.
+-**Deep Scan**: Click "🐉 Deep Scan All Files" to scan all files on your PC.
+-**Real-Time Monitoring**: Use the "🔴 Start Real-Time Monitoring" button to monitor critical directories.
+-**Stop Monitoring**: Click "❌ Stop Real-Time Monitoring" to end the monitoring session.
+-**Boost RAM**: Click "⚡ Boost RAM" to clear unnecessary memory usage.
+-**Clean Junk Files**: Click "🗑️ Clean Junk Files" to delete unwanted files from your system.
 
 
 

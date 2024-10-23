@@ -22,35 +22,26 @@ Yakuza Antivirus is a lightweight antivirus application built using Python and P
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SoulOfNeverender/yakuza-antivirus.git
+   git clone https://github.com/yourusername/yakuza-antivirus.git
    cd yakuza-antivirus
 
 
 
 2. Install the required packages:
 
-<<<<<<< Updated upstream
    ```bash
    pip install PyQt5 psutil watchdog
-=======
-```pip install PyQt5 psutil watchdog```
->>>>>>> Stashed changes
 
 
 3. Run the application:
 
-<<<<<<< Updated upstream
    ```bash
    python main.py
-=======
-```python main.py```
->>>>>>> Stashed changes
 
 
 
 
 
-<<<<<<< Updated upstream
 ## Usage
 
 - **Scan File**: Click the "🔍 Scan File" button to select a file for scanning.
@@ -59,33 +50,15 @@ Yakuza Antivirus is a lightweight antivirus application built using Python and P
 - **Stop Monitoring**: Click "❌ Stop Real-Time Monitoring" to end the monitoring session.
 - **Boost RAM**: Click "⚡ Boost RAM" to clear unnecessary memory usage.
 - **Clean Junk Files**: Click "🗑️ Clean Junk Files" to delete unwanted files from your system.
-=======
-# Usage:
-
-Scan File: Click the "🔍 Scan File" button to select a file for scanning.
-Deep Scan: Click "🐉 Deep Scan All Files" to scan all files on your PC.
-Real-Time Monitoring: Use the "🔴 Start Real-Time Monitoring" button to monitor critical directories.
-Stop Monitoring: Click "❌ Stop Real-Time Monitoring" to end the monitoring session.
-Boost RAM: Click "⚡ Boost RAM" to clear unnecessary memory usage.
-Clean Junk Files: Click "🗑️ Clean Junk Files" to delete unwanted files from your system.
->>>>>>> Stashed changes
 
 
 
 
-<<<<<<< Updated upstream
 ## Acknowledgements
 
 - PyQt5 for the GUI framework.
 - Psutil for system and process management.
 - Watchdog for file system monitoring.
-=======
-# Acknowledgements:
-
-PyQt5 for the GUI framework.
-Psutil for system and process management.
-Watchdog for file system monitoring.
->>>>>>> Stashed changes
 
 
-
+## The RAM Controller is still under development so DO NOT run it as it will close all your applications.

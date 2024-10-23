@@ -63,4 +63,4 @@ Yakuza Antivirus is a lightweight antivirus application built using Python and P
 
 ## NOTE
 
-- The RAM Controller is still under development so DO NOT run it as it will close all your applications.
+- The RAM Booster is still under development so DO NOT run it as it will close all your applications.

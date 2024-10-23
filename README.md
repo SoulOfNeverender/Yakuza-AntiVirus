@@ -52,10 +52,11 @@ Yakuza Antivirus is a lightweight antivirus application built using Python and P
 
 
 
-Acknowledgements
-PyQt5 for the GUI framework.
-Psutil for system and process management.
-Watchdog for file system monitoring.
+## Acknowledgements
+
+- PyQt5 for the GUI framework.
+- Psutil for system and process management.
+- Watchdog for file system monitoring.
 
 
 
